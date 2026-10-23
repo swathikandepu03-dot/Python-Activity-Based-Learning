@@ -1,8 +1,8 @@
 # Python-Activity-Based-Learning
-name:K.Swathi
-roll no:26000925
-branch:CSM
-section:2
+Name:Kandepu Swathi
+Roll No:26000925
+Branch:CSM
+Section:2
 #TOPICS 
 1.University Scholarship Allocation
 2.Progressive Electricity Billing
